@@ -18,7 +18,9 @@
 -django\
 -Pillow
 
-2.4 Запускаем `python3 manage.py runserver`
+2.4. Выполните миграции, `python3 manage.py makemigrations`, `python3 manage.py migrate`
+
+2.5. Запускаем `python3 manage.py runserver`
 
 **3. Обзор**
 
